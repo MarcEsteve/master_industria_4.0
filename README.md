@@ -2,6 +2,6 @@
 This is a repo for testing
 
 New users:
-  -Yair Bonastre
-  -Ismael Fernández
-  -Marc Esteve
+  - Yair Bonastre
+  - Ismael Fernández
+  - Marc Esteve
